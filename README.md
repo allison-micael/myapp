@@ -1,16 +1,18 @@
-# myapp
+# Meu Primeiro Programa com Flutter
 
-A new Flutter project.
+Seja bem-vindo ao primeiro projeto em Flutter! Este aplicativo simples constitui:
 
-## Getting Started
+- A estrutura de um projeto Flutter.
+- Uma mera interface com um contador que aumenta ao clicar no botão.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Mostra uma mensagem inicial.
+- Aumenta o contador clicando no botão.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como Executar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Certifique-se de que o Flutter está instalado ([Instalando o Flutter](https://flutter.dev/docs/get-started)).
+2. Faça o clone deste repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/primeiro-programa-flutter.git
